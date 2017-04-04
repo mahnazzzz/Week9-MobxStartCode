@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "task": "Learn React",
+      "completed": false,
+      "assignee": ""
+    },
+    {
+      "task": "Learn MobX",
+      "completed": false,
+      "assignee": ""
+    },
+    {
+      "task": "Learn to combine React and MobX",
+      "completed": false,
+      "assignee": ""
+    },
+    {
+      "task": "Learn to combine death and dicay",
+      "completed": false,
+      "assignee": ""
+    }
+  ]
+}
